@@ -150,9 +150,7 @@
     }
   }
 
-  .is-focused,
-  // may or may not be a form-group or bmd-form-group
-  &.is-focused {
+  .is-focused {
     // on focus set borders and labels to the validation color
 
     // Use the BS provided mixin for the bulk of the color
