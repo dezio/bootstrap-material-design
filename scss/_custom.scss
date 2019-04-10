@@ -2,3 +2,13 @@
 //
 // Copy variables from `_variables.scss` to this file to override default values
 // without modifying source files.
+
+$theme-colors: (
+  primary: $blue-900,
+  success: $green,
+  info: $light-blue,
+  warning: $deep-orange,
+  danger: $red,
+  light: $grey-100,
+  dark: $blue-grey-100
+);
